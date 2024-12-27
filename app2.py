@@ -101,7 +101,8 @@ def main() :
                 #Title display
     html_temp = """
     <div style="background-color: #D54773; padding:10px; border-radius:10px">
-    <h1 style="color: white; text-align:center">Dashboard Scoring Credit\n  
+    <h1 style="color: white; text-align:center">Dashboard Scoring Credit\n 
+     st.header("MERAH Mohamed ")
     MERAH Mohamed</h1>
     </div>
 
